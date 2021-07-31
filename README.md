@@ -1,2 +1,6 @@
-# diplodatos2021_grupo7
-Entregables grupo 7 materias diplodatos 2021
+# Entregables del Grupo 7 de la DiploDatos 2021
+## Integrantes
+* Rafael Borneo
+* Gabriel Crisnejo
+* Hugo Carignano
+* Gastón Valvassori
